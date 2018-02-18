@@ -7,13 +7,13 @@ description: |
 authors:
     - name: Adolfo Ballester-Bolinches
       url: mailto:Adolfo.Ballester@uv.es
-    - name: Enric Cosme-Ll\'opez
+    - name: Enric Cosme-Llópez
       url: https://www.uv.es/coslloen
-    - name: Ram\'on Esteban-Romero
+    - name: Ramón Esteban-Romero
       url: https://www.uv.es/estebanr
 
 maintainers:
-    - name: Ram\'on Esteban-Romero
+    - name: Ramón Esteban-Romero
       url: https://www.uv.es/estebanr
 
 GAP: "4.7.4"
