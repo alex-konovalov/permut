@@ -1,6 +1,6 @@
 name: permut
 version: 2.0.1
-date: 18/02/2018
+date: 2018-02-18
 description: |
     A package to deal with permutability in finite groups
 
@@ -21,7 +21,7 @@ GAP: "4.7.4"
 needed-pkgs:
     - name: "format"
       version: "1.3"
-      url: "http://www.uoregon.edu/~wright/RESEARCH/format/"
+      url: "https://gap-packages.github.io/format/"
 
 www: https://gap-packages.github.io/permut/
 readme: README.md
