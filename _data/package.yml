@@ -1,6 +1,6 @@
 name: permut
-version: 2.0.2
-date: 2018-08-18
+version: 2.0.3
+date: 2018-08-19
 description: |
     A package to deal with permutability in finite groups
 
@@ -29,11 +29,11 @@ packageinfo: https://gap-packages.github.io/permut/PackageInfo.g
 
 downloads:
     - name: .tar.gz
-      url: https://github.com/gap-packages/permut/releases/download/v2.0.2/permut-2.0.2.tar.gz
+      url: https://github.com/gap-packages/permut/releases/download/v2.0.3/permut-2.0.3.tar.gz
     - name: .tar.bz2
-      url: https://github.com/gap-packages/permut/releases/download/v2.0.2/permut-2.0.2.tar.bz2
+      url: https://github.com/gap-packages/permut/releases/download/v2.0.3/permut-2.0.3.tar.bz2
     - name: .zip
-      url: https://github.com/gap-packages/permut/releases/download/v2.0.2/permut-2.0.2.zip
+      url: https://github.com/gap-packages/permut/releases/download/v2.0.3/permut-2.0.3.zip
 
 abstract: |
     This package provides functions for computing with permutability in finite groups.
