@@ -22,7 +22,7 @@
     [4X[28XHomepage: http://www.uoregon.edu/~wright/RESEARCH/format/[128X[104X
     [4X[28X─────────────────────────────────────────────────────────────────────────────[128X[104X
     [4X[28X─────────────────────────────────────────────────────────────────────────────[128X[104X
-    [4X[28XLoading  permut 2.0.1 (PERMUT: A package to deal with permutability in finite groups)[128X[104X
+    [4X[28XLoading  permut 2.0.2 (PERMUT: A package to deal with permutability in finite groups)[128X[104X
     [4X[28Xby Adolfo Ballester-Bolinches (Adolfo.Ballester@uv.es),[128X[104X
     [4X[28X   Enric Cosme-Ll\'opez (https://www.uv.es/coslloen), and[128X[104X
     [4X[28X   Ram\'on Esteban-Romero (https://www.uv.es/estebanr).[128X[104X
